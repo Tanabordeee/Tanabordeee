@@ -12,9 +12,6 @@ I am a Computer Science student at King Mongkut's University of Technology North
 ![](https://nirzak-streak-stats.vercel.app/?user=tanabordeee&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanabordeee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanabordeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanabordeee&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
